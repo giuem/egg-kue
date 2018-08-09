@@ -21,7 +21,7 @@ $ npm i @giuem/egg-kue --save
 // {app_root}/config/plugin.js
 exports.kue = {
   enable: true,
-  package: 'egg-kue',
+  package: '@giuem/egg-kue',
 };
 ```
 

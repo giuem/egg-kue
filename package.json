@@ -44,13 +44,13 @@
     "lib"
   ],
   "ci": {
-    "version": "6, 8"
+    "version": "8"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beyai/egg-kue.git"
+    "url": "git+https://github.com/giuem/egg-kue.git"
   },
-  "homepage": "https://github.com/beyai/egg-kue#readme",
-  "author": "chandre",
+  "homepage": "https://github.com/giuem/egg-kue#readme",
+  "author": "giuem+chandre",
   "license": "MIT"
 }
