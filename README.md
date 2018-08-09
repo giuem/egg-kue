@@ -2,16 +2,18 @@
 
 [![NPM version][npm-image]][npm-url]
 
-[npm-image]: https://img.shields.io/npm/v/egg-kue.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/egg-kue
+[npm-image]: https://img.shields.io/npm/v/@giuem/egg-kue.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@giuem/egg-kue
 
 A priority job queue backed by redis, built for eggjs.
 
 ## Install
 
 ```bash
-$ npm i egg-kue --save
+$ npm i @giuem/egg-kue --save
 ```
+
+> For egg 1.x, use [egg-kue](https://www.npmjs.com/package/egg-kue) instead.
 
 ## Usage
 

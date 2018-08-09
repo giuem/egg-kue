@@ -1,5 +1,5 @@
 {
-  "name": "egg-kue",
+  "name": "@giuem/egg-kue",
   "version": "0.2.0",
   "description": "",
   "eggPlugin": {
